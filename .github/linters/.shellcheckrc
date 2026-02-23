@@ -1,3 +1,0 @@
-shell=bash
-disable=SC1101,SC1102
-severity=error
